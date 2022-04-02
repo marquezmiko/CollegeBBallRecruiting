@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0"
+  },
+  "name": "collegebballrecruiting",
+  "description": "Practice with sports APIs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marquezmiko/CollegeBBallRecruiting.git"
+  },
+  "author": "Justo Marquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marquezmiko/CollegeBBallRecruiting/issues"
+  },
+  "homepage": "https://github.com/marquezmiko/CollegeBBallRecruiting#readme"
+}

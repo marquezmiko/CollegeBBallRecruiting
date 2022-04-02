@@ -1,0 +1,10 @@
+html, body, #app {
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+#app {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
